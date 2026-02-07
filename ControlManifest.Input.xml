@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <control namespace="Anas" constructor="AdvancedCalendarPCF" version="1.0.0"
+           display-name-key="AdvancedCalendarPCF"
+           description-key="Advanced Calendar PCF with multi-date and range selection"
+           control-type="standard">
+    <property name="dataset" display-name-key="Dataset" of-type="Dataset" usage="bound" required="false" />
+    <property name="mode" display-name-key="Mode" of-type="SingleLine.Text" default-value="range" />
+    <resources>
+      <code path="index.ts" order="1" />
+    </resources>
+  </control>
+</manifest>
