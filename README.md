@@ -6,6 +6,8 @@ The control supports advanced date selection scenarios such as single date selec
 
 Advanced Calendar PCF integrates seamlessly with Dataverse and can optionally bind to datasets, enabling it to display, select, and manage dates in complex business scenarios without relying on external services or AI-based features.
 
+
+
 Key Features
 
 Single date and date range selection
@@ -20,6 +22,9 @@ React-based implementation for maintainability
 
 Microsoft-friendly design aligned with Power Platform best practices
 
+
+
+
 Common Use Cases
 
 Booking and reservation systems
@@ -31,6 +36,9 @@ Project scheduling and planning
 SLA tracking and deadline management
 
 Any scenario requiring advanced date selection logic
+
+
+
 
 Design Goals
 
